@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <uuid/uuid.h>
 #include <sys/stat.h>
+#include <sys/socket.h>
 #include <fcntl.h>
 #include <arpa/inet.h>
 #include <pthread.h>
